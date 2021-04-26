@@ -56,7 +56,7 @@ Stichwort: Tuple Deconstruction.
 ### Task 2.1: 
 
 Definiere einen Record Type mit dem Namen `Person`. Person soll die Felder `Name`(string) und `Alter`(int) haben.
-Bei Record Types wird kein camel case, sondern pascal case verwendet (wie camel case nur ist der erste Buchstabe auch gro�).
+Bei Record Types wird kein camel case, sondern pascal case verwendet (wie camel case nur ist der erste Buchstabe auch groß).
 *)
 
 (******)
