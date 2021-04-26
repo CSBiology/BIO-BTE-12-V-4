@@ -1,7 +1,7 @@
 (**
 ---
-title: Übung 02
-category: Übungen(deutsch)
+title: Ãœbung 02
+category: Ãœbungen(deutsch)
 categoryindex: 2
 index: 3
 ---
@@ -13,7 +13,7 @@ index: 3
 [![Script]({{root}}img/badge-script.svg)]({{root}}{{fsdocs-source-basename}}.fsx)&emsp;
 [![Notebook]({{root}}img/badge-notebook.svg)]({{root}}{{fsdocs-source-basename}}.ipynb)
 
-# Task02 – Functions and Data types
+# Task02 - Functions and Data types
 
 ## Tuples
 
@@ -56,7 +56,7 @@ Stichwort: Tuple Deconstruction.
 ### Task 2.1: 
 
 Definiere einen Record Type mit dem Namen `Person`. Person soll die Felder `Name`(string) und `Alter`(int) haben.
-Bei Record Types wird kein camel case, sondern pascal case verwendet (wie camel case nur ist der erste Buchstabe auch groß).
+Bei Record Types wird kein camel case, sondern pascal case verwendet (wie camel case nur ist der erste Buchstabe auch groï¿½).
 *)
 
 (*******)

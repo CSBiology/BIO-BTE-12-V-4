@@ -1,7 +1,7 @@
 (**
 ---
-title: Übung 02
-category: Übungen(english)
+title: Task 02
+category: Tasks(english)
 categoryindex: 2
 index: 3
 ---
@@ -13,7 +13,7 @@ index: 3
 [![Script]({{root}}img/badge-script.svg)]({{root}}{{fsdocs-source-basename}}.fsx)&emsp;
 [![Notebook]({{root}}img/badge-notebook.svg)]({{root}}{{fsdocs-source-basename}}.ipynb)
 
-# Task02 – Functions and Data types
+# Task02 - Functions and Data types
 
 ## Tuples
 
