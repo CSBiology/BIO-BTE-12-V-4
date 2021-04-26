@@ -22,7 +22,7 @@ index: 3
 Declare a tuple consisting of 2. and "February" and bind it to the name `tuple1`.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 1.2:
@@ -30,7 +30,7 @@ Declare a tuple consisting of 2. and "February" and bind it to the name `tuple1`
 Declare a tuple consisting of 2., "February" and "Spring" and bind it to the name `tuple2`.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 1.3:
@@ -38,7 +38,7 @@ Declare a tuple consisting of 2., "February" and "Spring" and bind it to the nam
 Access the second value of the tuple of 1.1.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 1.4:
@@ -48,7 +48,7 @@ Why could that be useful?
 Keyword: tuple deconstruction
 *)
 
-(*******)
+(******)
 
 (**
 ## Record Types
@@ -59,7 +59,7 @@ Define a record type with the name `Person`. Person should contain the fields `N
 Pascal case is used for record types instead of camel case (pascal case is like camel case but the first letter is big too).
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 2.2:
@@ -68,7 +68,7 @@ Create a value of the type `Person` with made-up values in its fields and bind i
 Access the field `Age` of `myPerson1`.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 2.3:
@@ -77,7 +77,7 @@ Declare a function that takes two input parameters und returns a `Person`.
 Bind the result of this function to the name `myPerson2`.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 2.4:
@@ -87,7 +87,7 @@ additional field `Hobby`. Since everything can be your hobby, `Hobby` shall be o
 Hint: The generic type must be stated between the name of the record type and `=` via `<'a>`.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 2.5
@@ -95,7 +95,7 @@ Hint: The generic type must be stated between the name of the record type and `=
 Create a value of the type `ExtendedPerson`.
 *)
 
-(*******)
+(******)
 
 (**
 ## Signatures
@@ -105,7 +105,7 @@ Create a value of the type `ExtendedPerson`.
 Declare an arbitrary function with the signature `inct -> int`.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 3.2
@@ -113,7 +113,7 @@ Declare an arbitrary function with the signature `inct -> int`.
 Declare an arbitrary function with the signature `int -> (int -> int) -> float`.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 3.3
@@ -121,7 +121,7 @@ Declare an arbitrary function with the signature `int -> (int -> int) -> float`.
 Describe the return value of a function with the signature `char -> (string -> char -> float)`.
 *)
 
-(*******)
+(******)
 
 (**
 ## Collection types
@@ -131,7 +131,7 @@ Describe the return value of a function with the signature `char -> (string -> c
 Create an int list with the numbers 1 to 100 and bind them to a name.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 4.2
@@ -139,7 +139,7 @@ Create an int list with the numbers 1 to 100 and bind them to a name.
 Bind the first and the last element of the list each to a name.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 4.3
@@ -147,7 +147,7 @@ Bind the first and the last element of the list each to a name.
 Create a float array with the numbers 1. to 100. and bind them to a name.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 4.4
@@ -155,7 +155,7 @@ Create a float array with the numbers 1. to 100. and bind them to a name.
 Bind the 15. element of the array of 4.3 to a name.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 4.5
@@ -163,7 +163,7 @@ Bind the 15. element of the array of 4.3 to a name.
 Create a map that contains all months. Use the number of the month (integer) as key and the name (string) as value.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 4.6
@@ -171,7 +171,7 @@ Create a map that contains all months. Use the number of the month (integer) as 
 Check, based on a suitable key, if the month March exists in the map.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 4.7
@@ -179,7 +179,7 @@ Check, based on a suitable key, if the month March exists in the map.
 Create two sets. One with numbers 1 to 10 and another one with numbers 3 to 7 and bind them each to a name.
 *)
 
-(*******)
+(******)
 
 (**
 ### Task 4.8 
@@ -188,4 +188,4 @@ Compare the previously created sets. Form the intersection (instersect) and the 
 Hint: Use the module Set to get suitable functions via 'dotting in'.
 *)
 
-(*******)
+(******)
