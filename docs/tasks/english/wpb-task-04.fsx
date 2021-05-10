@@ -20,7 +20,7 @@ index: 5
 
 ### Task 1.1:
 
-Rerwite the following function by using the pipe operator `|>` and the given functions.
+Rewrite the following function by using the pipe operator `|>` and the given functions.
 
 Clue: 
 
@@ -192,7 +192,7 @@ Apply the function `square` (Task 1.1) to each element of `nList`. Bind the resu
 (**
 ### Task 2.5
 
-Extract all weigts from `catList` and binde it to the name `catWeights`
+Extract all weigts from `catList` and bind it to the name `catWeights`
 
 Clue: Search the `List` module for a suitable function.
 
@@ -218,8 +218,8 @@ Clue: Make use of `List.filter` and the given function.
 *)
 (******)
 
-let isDivisibleWithoutRemainder denumerator numerator =
-    numerator % denumerator = 0.
+let isDivisibleWithoutRemainder denominator numerator =
+    numerator % denominator = 0.
 
 (**
 ### Task 2.8

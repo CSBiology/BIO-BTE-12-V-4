@@ -102,7 +102,7 @@ Create a value of the type `ExtendedPerson`.
 
 ### Task 3.1
 
-Declare an arbitrary function with the signature `inct -> int`.
+Declare an arbitrary function with the signature `int -> int`.
 *)
 
 (******)
@@ -184,7 +184,7 @@ Create two sets. One with numbers 1 to 10 and another one with numbers 3 to 7 an
 (**
 ### Task 4.8 
 
-Compare the previously created sets. Form the intersection (instersect) and the union of both sets and bind them each to a name.
+Compare the previously created sets. Form the intersection (intersect) and the union of both sets and bind them each to a name.
 Hint: Use the module Set to get suitable functions via 'dotting in'.
 *)
 
